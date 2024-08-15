@@ -3,7 +3,7 @@
 # 💫 About Me
 
 ## 🔭 Current Projects
-- **AI-Powered Coronary Artery Disease Detection Tool**: Integrating risk assessment and image analysis, focusing on ECG image datasets.
+- **AI-Powered Heart DIsease Dection Tool**: Integrating risk assessment and image analysis, focusing on ECG image datasets.
 - **Heart Disease Prediction Web Application**: Utilizing clinical data, ECG images, or a hybrid approach for accurate predictions.
 
 ## 👯 Collaboration Interests
