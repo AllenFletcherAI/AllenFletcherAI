@@ -36,12 +36,12 @@ Machine Learning Systems Engineer specializing in high-throughput document extra
 ## ⚙️ Technical Architecture & Core Stack
 
 ```text
- ┌────────────────────────────────────────────────────────────────────────┐
- │                     ENTERPRISE ML SYSTEMS STACK                        │
- ├─────────────────────────┬──────────────────────────────────────────────┤
+ ┌─────────────────────────────────────────────────────────────────────────┐
+ │                     ENTERPRISE ML SYSTEMS STACK                         │
+ ├─────────────────────────┬───────────────────────────────────────────────┤
  │ Runtime & Acceleration  │ NVIDIA TensorRT · ONNX Runtime · Triton · C++ │
- │ Machine Learning & DL   │ PyTorch · Hugging Face Hub · Transformers    │
- │ Serving & Microservices │ FastAPI · Docker · Redis · Celery · Linux    │
- │ Data & Spatial Vision   │ OpenCV · NumPy · SciPy · PostgreSQL · Vector │
- │ Cloud & Infrastructure  │ AWS (S3, Lambda, API Gateway) · GitHub CI/CD │
- └─────────────────────────┴──────────────────────────────────────────────┘
+ │ Machine Learning & DL   │ PyTorch · Hugging Face Hub · Transformers     │
+ │ Serving & Microservices │ FastAPI · Docker · Redis · Celery · Linux     │
+ │ Data & Spatial Vision   │ OpenCV · NumPy · SciPy · PostgreSQL · Vector  │
+ │ Cloud & Infrastructure  │ AWS (S3, Lambda, API Gateway) · GitHub CI/CD  │
+ └─────────────────────────┴───────────────────────────────────────────────┘
